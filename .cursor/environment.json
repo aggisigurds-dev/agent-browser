@@ -1,0 +1,4 @@
+{
+  "name": "agent-browser",
+  "install": "bash ./.cursor/install.sh"
+}
